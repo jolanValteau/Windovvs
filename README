@@ -4,3 +4,4 @@ Codé sur pyzo 4.12.8. Python 3.8.8 on Windows (64 bits).
 Besoin de requirements.txt
 pip install -r requirments.txt
 (WARNING : the command in a terminal in the same folder as the executable / the .txt / supposly the yes.py)
+(WARNING : using a pyton 3.8.8 is recommanded and working. Any other version can break the program)

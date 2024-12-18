@@ -2,3 +2,5 @@ C'est Windovvs ici (bureau, bonton, appli, heure, tout ça...)
 Codé sur pyzo 4.12.8. Python 3.8.8 on Windows (64 bits).
 
 Besoin de requirements.txt
+pip install -r requirments.txt
+(WARNING : the command in a terminal in the same folder as the executable / the .txt / supposly the yes.py)
